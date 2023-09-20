@@ -39,6 +39,7 @@
 		"@codemirror/view": "^6.19.0",
 		"@lezer/highlight": "^1.1.6",
 		"@rich_harris/svelte-split-pane": "^1.1.1",
+		"@sveltejs/adapter-cloudflare": "^2.3.3",
 		"codemirror": "^6.0.1",
 		"svelte-codemirror-editor": "^1.1.0"
 	}
